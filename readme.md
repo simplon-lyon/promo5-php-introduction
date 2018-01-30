@@ -60,3 +60,5 @@ In order to redirect `.dev` tld to localhost, you need dnsmasq. To install it, d
 1. run `sudo systemctl restart NetworkManager.service` to restart the network manager, you will temporarily lost your network connection.
 
 source : https://www.leaseweb.com/labs/2013/08/wildcard-dns-ubuntu-hosts-file-using-dnsmasq/
+
+![Diagram](https://yuml.me/diagram/plain/class/[Animal%7C-nb_legs:Int%20=%204;-nb_eyes:Int%20=%202%7Ceat();%20sleep();%20walk();]^-[Cat%7C-color:%20Array(String);-race:String;-domesticated:Bool%20=%20true;-name:String%7Cmeow();%20scratch();%20hunt();].png)
