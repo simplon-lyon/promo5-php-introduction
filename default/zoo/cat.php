@@ -1,6 +1,6 @@
 <?php
 namespace zoo;
-include "animal.php";
+
 class Cat extends Animal {
   private $color;
   private $race;
