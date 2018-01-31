@@ -1,5 +1,4 @@
 <?php
-
 class Human
 {
   private $name;  
